@@ -1,0 +1,19 @@
+explanation to features in the pkl files:
+
+"Name": the name of the target (PDB ID or CASP ID)
+"Sequence": the sequence of the monomer structure
+"DSSP": one-hot encoding of the 8-state secondary structure type produced by DSSP 	8
+"ACC": solvent accessible surface area calculated by DSSP				1
+"RSA": solvent accessible surface area calculated by Naccess				1
+"Hydro": Wimley-White whole residue hydrophobicity scale				1
+"PSSM": position specific scoring matrix						20
+"DI": DI scores calculated by CCMpred						+1
+"APC": APC scores calculated bt CCMpred					+1
+"Dismap": the distance map of the monomer structure				+1
+"Dockmap": the docking map produced by the "dock_dis_map"			+1
+"Distance4label": the distance of the all the residue pairs of the homo-oligomers 
+"BIPSPI_seq": the predicted results of BIPSPI_seq
+"BIPSPI_struc": the predicted results of BIPSPI_struc
+
+
+31=20+8+1+1+1

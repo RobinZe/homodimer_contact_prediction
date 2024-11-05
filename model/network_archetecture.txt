@@ -1,0 +1,2013 @@
+/model_weights
+/model_weights/activation_1
+/model_weights/activation_10
+/model_weights/activation_11
+/model_weights/activation_12
+/model_weights/activation_13
+/model_weights/activation_14
+/model_weights/activation_15
+/model_weights/activation_16
+/model_weights/activation_17
+/model_weights/activation_18
+/model_weights/activation_19
+/model_weights/activation_2
+/model_weights/activation_20
+/model_weights/activation_21
+/model_weights/activation_22
+/model_weights/activation_23
+/model_weights/activation_24
+/model_weights/activation_25
+/model_weights/activation_26
+/model_weights/activation_27
+/model_weights/activation_28
+/model_weights/activation_29
+/model_weights/activation_3
+/model_weights/activation_30
+/model_weights/activation_31
+/model_weights/activation_32
+/model_weights/activation_33
+/model_weights/activation_34
+/model_weights/activation_35
+/model_weights/activation_36
+/model_weights/activation_37
+/model_weights/activation_38
+/model_weights/activation_39
+/model_weights/activation_4
+/model_weights/activation_40
+/model_weights/activation_41
+/model_weights/activation_42
+/model_weights/activation_43
+/model_weights/activation_44
+/model_weights/activation_45
+/model_weights/activation_46
+/model_weights/activation_47
+/model_weights/activation_48
+/model_weights/activation_49
+/model_weights/activation_5
+/model_weights/activation_50
+/model_weights/activation_51
+/model_weights/activation_52
+/model_weights/activation_53
+/model_weights/activation_54
+/model_weights/activation_55
+/model_weights/activation_56
+/model_weights/activation_57
+/model_weights/activation_58
+/model_weights/activation_59
+/model_weights/activation_6
+/model_weights/activation_60
+/model_weights/activation_61
+/model_weights/activation_62
+/model_weights/activation_63
+/model_weights/activation_64
+/model_weights/activation_65
+/model_weights/activation_66
+/model_weights/activation_67
+/model_weights/activation_68
+/model_weights/activation_69
+/model_weights/activation_7
+/model_weights/activation_70
+/model_weights/activation_71
+/model_weights/activation_72
+/model_weights/activation_73
+/model_weights/activation_74
+/model_weights/activation_75
+/model_weights/activation_76
+/model_weights/activation_77
+/model_weights/activation_78
+/model_weights/activation_79
+/model_weights/activation_8
+/model_weights/activation_80
+/model_weights/activation_81
+/model_weights/activation_9
+/model_weights/add_1
+/model_weights/add_10
+/model_weights/add_11
+/model_weights/add_12
+/model_weights/add_13
+/model_weights/add_14
+/model_weights/add_15
+/model_weights/add_16
+/model_weights/add_17
+/model_weights/add_18
+/model_weights/add_19
+/model_weights/add_2
+/model_weights/add_20
+/model_weights/add_21
+/model_weights/add_22
+/model_weights/add_23
+/model_weights/add_24
+/model_weights/add_25
+/model_weights/add_26
+/model_weights/add_27
+/model_weights/add_28
+/model_weights/add_29
+/model_weights/add_3
+/model_weights/add_30
+/model_weights/add_31
+/model_weights/add_32
+/model_weights/add_33
+/model_weights/add_34
+/model_weights/add_35
+/model_weights/add_36
+/model_weights/add_37
+/model_weights/add_38
+/model_weights/add_39
+/model_weights/add_4
+/model_weights/add_40
+/model_weights/add_5
+/model_weights/add_6
+/model_weights/add_7
+/model_weights/add_8
+/model_weights/add_9
+/model_weights/batch_normalization_1
+/model_weights/batch_normalization_1/batch_normalization_1
+/model_weights/batch_normalization_1/batch_normalization_1/beta:0/             />(31,)
+/model_weights/batch_normalization_1/batch_normalization_1/gamma:0/             />(31,)
+/model_weights/batch_normalization_1/batch_normalization_1/moving_mean:0/             />(31,)
+/model_weights/batch_normalization_1/batch_normalization_1/moving_variance:0/             />(31,)
+/model_weights/batch_normalization_10
+/model_weights/batch_normalization_10/batch_normalization_10
+/model_weights/batch_normalization_10/batch_normalization_10/beta:0/             />(32,)
+/model_weights/batch_normalization_10/batch_normalization_10/gamma:0/             />(32,)
+/model_weights/batch_normalization_10/batch_normalization_10/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_10/batch_normalization_10/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_11
+/model_weights/batch_normalization_11/batch_normalization_11
+/model_weights/batch_normalization_11/batch_normalization_11/beta:0/             />(32,)
+/model_weights/batch_normalization_11/batch_normalization_11/gamma:0/             />(32,)
+/model_weights/batch_normalization_11/batch_normalization_11/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_11/batch_normalization_11/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_12
+/model_weights/batch_normalization_12/batch_normalization_12
+/model_weights/batch_normalization_12/batch_normalization_12/beta:0/             />(32,)
+/model_weights/batch_normalization_12/batch_normalization_12/gamma:0/             />(32,)
+/model_weights/batch_normalization_12/batch_normalization_12/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_12/batch_normalization_12/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_13
+/model_weights/batch_normalization_13/batch_normalization_13
+/model_weights/batch_normalization_13/batch_normalization_13/beta:0/             />(32,)
+/model_weights/batch_normalization_13/batch_normalization_13/gamma:0/             />(32,)
+/model_weights/batch_normalization_13/batch_normalization_13/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_13/batch_normalization_13/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_14
+/model_weights/batch_normalization_14/batch_normalization_14
+/model_weights/batch_normalization_14/batch_normalization_14/beta:0/             />(32,)
+/model_weights/batch_normalization_14/batch_normalization_14/gamma:0/             />(32,)
+/model_weights/batch_normalization_14/batch_normalization_14/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_14/batch_normalization_14/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_15
+/model_weights/batch_normalization_15/batch_normalization_15
+/model_weights/batch_normalization_15/batch_normalization_15/beta:0/             />(32,)
+/model_weights/batch_normalization_15/batch_normalization_15/gamma:0/             />(32,)
+/model_weights/batch_normalization_15/batch_normalization_15/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_15/batch_normalization_15/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_16
+/model_weights/batch_normalization_16/batch_normalization_16
+/model_weights/batch_normalization_16/batch_normalization_16/beta:0/             />(32,)
+/model_weights/batch_normalization_16/batch_normalization_16/gamma:0/             />(32,)
+/model_weights/batch_normalization_16/batch_normalization_16/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_16/batch_normalization_16/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_17
+/model_weights/batch_normalization_17/batch_normalization_17
+/model_weights/batch_normalization_17/batch_normalization_17/beta:0/             />(32,)
+/model_weights/batch_normalization_17/batch_normalization_17/gamma:0/             />(32,)
+/model_weights/batch_normalization_17/batch_normalization_17/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_17/batch_normalization_17/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_18
+/model_weights/batch_normalization_18/batch_normalization_18
+/model_weights/batch_normalization_18/batch_normalization_18/beta:0/             />(32,)
+/model_weights/batch_normalization_18/batch_normalization_18/gamma:0/             />(32,)
+/model_weights/batch_normalization_18/batch_normalization_18/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_18/batch_normalization_18/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_19
+/model_weights/batch_normalization_19/batch_normalization_19
+/model_weights/batch_normalization_19/batch_normalization_19/beta:0/             />(32,)
+/model_weights/batch_normalization_19/batch_normalization_19/gamma:0/             />(32,)
+/model_weights/batch_normalization_19/batch_normalization_19/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_19/batch_normalization_19/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_2
+/model_weights/batch_normalization_2/batch_normalization_2
+/model_weights/batch_normalization_2/batch_normalization_2/beta:0/             />(35,)
+/model_weights/batch_normalization_2/batch_normalization_2/gamma:0/             />(35,)
+/model_weights/batch_normalization_2/batch_normalization_2/moving_mean:0/             />(35,)
+/model_weights/batch_normalization_2/batch_normalization_2/moving_variance:0/             />(35,)
+/model_weights/batch_normalization_20
+/model_weights/batch_normalization_20/batch_normalization_20
+/model_weights/batch_normalization_20/batch_normalization_20/beta:0/             />(32,)
+/model_weights/batch_normalization_20/batch_normalization_20/gamma:0/             />(32,)
+/model_weights/batch_normalization_20/batch_normalization_20/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_20/batch_normalization_20/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_21
+/model_weights/batch_normalization_21/batch_normalization_21
+/model_weights/batch_normalization_21/batch_normalization_21/beta:0/             />(32,)
+/model_weights/batch_normalization_21/batch_normalization_21/gamma:0/             />(32,)
+/model_weights/batch_normalization_21/batch_normalization_21/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_21/batch_normalization_21/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_22
+/model_weights/batch_normalization_22/batch_normalization_22
+/model_weights/batch_normalization_22/batch_normalization_22/beta:0/             />(32,)
+/model_weights/batch_normalization_22/batch_normalization_22/gamma:0/             />(32,)
+/model_weights/batch_normalization_22/batch_normalization_22/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_22/batch_normalization_22/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_23
+/model_weights/batch_normalization_23/batch_normalization_23
+/model_weights/batch_normalization_23/batch_normalization_23/beta:0/             />(32,)
+/model_weights/batch_normalization_23/batch_normalization_23/gamma:0/             />(32,)
+/model_weights/batch_normalization_23/batch_normalization_23/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_23/batch_normalization_23/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_24
+/model_weights/batch_normalization_24/batch_normalization_24
+/model_weights/batch_normalization_24/batch_normalization_24/beta:0/             />(32,)
+/model_weights/batch_normalization_24/batch_normalization_24/gamma:0/             />(32,)
+/model_weights/batch_normalization_24/batch_normalization_24/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_24/batch_normalization_24/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_25
+/model_weights/batch_normalization_25/batch_normalization_25
+/model_weights/batch_normalization_25/batch_normalization_25/beta:0/             />(32,)
+/model_weights/batch_normalization_25/batch_normalization_25/gamma:0/             />(32,)
+/model_weights/batch_normalization_25/batch_normalization_25/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_25/batch_normalization_25/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_26
+/model_weights/batch_normalization_26/batch_normalization_26
+/model_weights/batch_normalization_26/batch_normalization_26/beta:0/             />(48,)
+/model_weights/batch_normalization_26/batch_normalization_26/gamma:0/             />(48,)
+/model_weights/batch_normalization_26/batch_normalization_26/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_26/batch_normalization_26/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_27
+/model_weights/batch_normalization_27/batch_normalization_27
+/model_weights/batch_normalization_27/batch_normalization_27/beta:0/             />(48,)
+/model_weights/batch_normalization_27/batch_normalization_27/gamma:0/             />(48,)
+/model_weights/batch_normalization_27/batch_normalization_27/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_27/batch_normalization_27/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_28
+/model_weights/batch_normalization_28/batch_normalization_28
+/model_weights/batch_normalization_28/batch_normalization_28/beta:0/             />(48,)
+/model_weights/batch_normalization_28/batch_normalization_28/gamma:0/             />(48,)
+/model_weights/batch_normalization_28/batch_normalization_28/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_28/batch_normalization_28/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_29
+/model_weights/batch_normalization_29/batch_normalization_29
+/model_weights/batch_normalization_29/batch_normalization_29/beta:0/             />(48,)
+/model_weights/batch_normalization_29/batch_normalization_29/gamma:0/             />(48,)
+/model_weights/batch_normalization_29/batch_normalization_29/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_29/batch_normalization_29/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_3
+/model_weights/batch_normalization_3/batch_normalization_3
+/model_weights/batch_normalization_3/batch_normalization_3/beta:0/             />(35,)
+/model_weights/batch_normalization_3/batch_normalization_3/gamma:0/             />(35,)
+/model_weights/batch_normalization_3/batch_normalization_3/moving_mean:0/             />(35,)
+/model_weights/batch_normalization_3/batch_normalization_3/moving_variance:0/             />(35,)
+/model_weights/batch_normalization_30
+/model_weights/batch_normalization_30/batch_normalization_30
+/model_weights/batch_normalization_30/batch_normalization_30/beta:0/             />(48,)
+/model_weights/batch_normalization_30/batch_normalization_30/gamma:0/             />(48,)
+/model_weights/batch_normalization_30/batch_normalization_30/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_30/batch_normalization_30/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_31
+/model_weights/batch_normalization_31/batch_normalization_31
+/model_weights/batch_normalization_31/batch_normalization_31/beta:0/             />(48,)
+/model_weights/batch_normalization_31/batch_normalization_31/gamma:0/             />(48,)
+/model_weights/batch_normalization_31/batch_normalization_31/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_31/batch_normalization_31/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_32
+/model_weights/batch_normalization_32/batch_normalization_32
+/model_weights/batch_normalization_32/batch_normalization_32/beta:0/             />(48,)
+/model_weights/batch_normalization_32/batch_normalization_32/gamma:0/             />(48,)
+/model_weights/batch_normalization_32/batch_normalization_32/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_32/batch_normalization_32/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_33
+/model_weights/batch_normalization_33/batch_normalization_33
+/model_weights/batch_normalization_33/batch_normalization_33/beta:0/             />(48,)
+/model_weights/batch_normalization_33/batch_normalization_33/gamma:0/             />(48,)
+/model_weights/batch_normalization_33/batch_normalization_33/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_33/batch_normalization_33/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_34
+/model_weights/batch_normalization_34/batch_normalization_34
+/model_weights/batch_normalization_34/batch_normalization_34/beta:0/             />(64,)
+/model_weights/batch_normalization_34/batch_normalization_34/gamma:0/             />(64,)
+/model_weights/batch_normalization_34/batch_normalization_34/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_34/batch_normalization_34/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_35
+/model_weights/batch_normalization_35/batch_normalization_35
+/model_weights/batch_normalization_35/batch_normalization_35/beta:0/             />(64,)
+/model_weights/batch_normalization_35/batch_normalization_35/gamma:0/             />(64,)
+/model_weights/batch_normalization_35/batch_normalization_35/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_35/batch_normalization_35/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_36
+/model_weights/batch_normalization_36/batch_normalization_36
+/model_weights/batch_normalization_36/batch_normalization_36/beta:0/             />(64,)
+/model_weights/batch_normalization_36/batch_normalization_36/gamma:0/             />(64,)
+/model_weights/batch_normalization_36/batch_normalization_36/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_36/batch_normalization_36/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_37
+/model_weights/batch_normalization_37/batch_normalization_37
+/model_weights/batch_normalization_37/batch_normalization_37/beta:0/             />(64,)
+/model_weights/batch_normalization_37/batch_normalization_37/gamma:0/             />(64,)
+/model_weights/batch_normalization_37/batch_normalization_37/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_37/batch_normalization_37/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_38
+/model_weights/batch_normalization_38/batch_normalization_38
+/model_weights/batch_normalization_38/batch_normalization_38/beta:0/             />(64,)
+/model_weights/batch_normalization_38/batch_normalization_38/gamma:0/             />(64,)
+/model_weights/batch_normalization_38/batch_normalization_38/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_38/batch_normalization_38/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_39
+/model_weights/batch_normalization_39/batch_normalization_39
+/model_weights/batch_normalization_39/batch_normalization_39/beta:0/             />(64,)
+/model_weights/batch_normalization_39/batch_normalization_39/gamma:0/             />(64,)
+/model_weights/batch_normalization_39/batch_normalization_39/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_39/batch_normalization_39/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_4
+/model_weights/batch_normalization_4/batch_normalization_4
+/model_weights/batch_normalization_4/batch_normalization_4/beta:0/             />(40,)
+/model_weights/batch_normalization_4/batch_normalization_4/gamma:0/             />(40,)
+/model_weights/batch_normalization_4/batch_normalization_4/moving_mean:0/             />(40,)
+/model_weights/batch_normalization_4/batch_normalization_4/moving_variance:0/             />(40,)
+/model_weights/batch_normalization_40
+/model_weights/batch_normalization_40/batch_normalization_40
+/model_weights/batch_normalization_40/batch_normalization_40/beta:0/             />(64,)
+/model_weights/batch_normalization_40/batch_normalization_40/gamma:0/             />(64,)
+/model_weights/batch_normalization_40/batch_normalization_40/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_40/batch_normalization_40/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_41
+/model_weights/batch_normalization_41/batch_normalization_41
+/model_weights/batch_normalization_41/batch_normalization_41/beta:0/             />(64,)
+/model_weights/batch_normalization_41/batch_normalization_41/gamma:0/             />(64,)
+/model_weights/batch_normalization_41/batch_normalization_41/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_41/batch_normalization_41/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_42
+/model_weights/batch_normalization_42/batch_normalization_42
+/model_weights/batch_normalization_42/batch_normalization_42/beta:0/             />(64,)
+/model_weights/batch_normalization_42/batch_normalization_42/gamma:0/             />(64,)
+/model_weights/batch_normalization_42/batch_normalization_42/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_42/batch_normalization_42/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_43
+/model_weights/batch_normalization_43/batch_normalization_43
+/model_weights/batch_normalization_43/batch_normalization_43/beta:0/             />(64,)
+/model_weights/batch_normalization_43/batch_normalization_43/gamma:0/             />(64,)
+/model_weights/batch_normalization_43/batch_normalization_43/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_43/batch_normalization_43/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_44
+/model_weights/batch_normalization_44/batch_normalization_44
+/model_weights/batch_normalization_44/batch_normalization_44/beta:0/             />(64,)
+/model_weights/batch_normalization_44/batch_normalization_44/gamma:0/             />(64,)
+/model_weights/batch_normalization_44/batch_normalization_44/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_44/batch_normalization_44/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_45
+/model_weights/batch_normalization_45/batch_normalization_45
+/model_weights/batch_normalization_45/batch_normalization_45/beta:0/             />(64,)
+/model_weights/batch_normalization_45/batch_normalization_45/gamma:0/             />(64,)
+/model_weights/batch_normalization_45/batch_normalization_45/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_45/batch_normalization_45/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_46
+/model_weights/batch_normalization_46/batch_normalization_46
+/model_weights/batch_normalization_46/batch_normalization_46/beta:0/             />(64,)
+/model_weights/batch_normalization_46/batch_normalization_46/gamma:0/             />(64,)
+/model_weights/batch_normalization_46/batch_normalization_46/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_46/batch_normalization_46/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_47
+/model_weights/batch_normalization_47/batch_normalization_47
+/model_weights/batch_normalization_47/batch_normalization_47/beta:0/             />(64,)
+/model_weights/batch_normalization_47/batch_normalization_47/gamma:0/             />(64,)
+/model_weights/batch_normalization_47/batch_normalization_47/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_47/batch_normalization_47/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_48
+/model_weights/batch_normalization_48/batch_normalization_48
+/model_weights/batch_normalization_48/batch_normalization_48/beta:0/             />(64,)
+/model_weights/batch_normalization_48/batch_normalization_48/gamma:0/             />(64,)
+/model_weights/batch_normalization_48/batch_normalization_48/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_48/batch_normalization_48/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_49
+/model_weights/batch_normalization_49/batch_normalization_49
+/model_weights/batch_normalization_49/batch_normalization_49/beta:0/             />(64,)
+/model_weights/batch_normalization_49/batch_normalization_49/gamma:0/             />(64,)
+/model_weights/batch_normalization_49/batch_normalization_49/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_49/batch_normalization_49/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_5
+/model_weights/batch_normalization_5/batch_normalization_5
+/model_weights/batch_normalization_5/batch_normalization_5/beta:0/             />(40,)
+/model_weights/batch_normalization_5/batch_normalization_5/gamma:0/             />(40,)
+/model_weights/batch_normalization_5/batch_normalization_5/moving_mean:0/             />(40,)
+/model_weights/batch_normalization_5/batch_normalization_5/moving_variance:0/             />(40,)
+/model_weights/batch_normalization_50
+/model_weights/batch_normalization_50/batch_normalization_50
+/model_weights/batch_normalization_50/batch_normalization_50/beta:0/             />(64,)
+/model_weights/batch_normalization_50/batch_normalization_50/gamma:0/             />(64,)
+/model_weights/batch_normalization_50/batch_normalization_50/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_50/batch_normalization_50/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_51
+/model_weights/batch_normalization_51/batch_normalization_51
+/model_weights/batch_normalization_51/batch_normalization_51/beta:0/             />(64,)
+/model_weights/batch_normalization_51/batch_normalization_51/gamma:0/             />(64,)
+/model_weights/batch_normalization_51/batch_normalization_51/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_51/batch_normalization_51/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_52
+/model_weights/batch_normalization_52/batch_normalization_52
+/model_weights/batch_normalization_52/batch_normalization_52/beta:0/             />(64,)
+/model_weights/batch_normalization_52/batch_normalization_52/gamma:0/             />(64,)
+/model_weights/batch_normalization_52/batch_normalization_52/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_52/batch_normalization_52/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_53
+/model_weights/batch_normalization_53/batch_normalization_53
+/model_weights/batch_normalization_53/batch_normalization_53/beta:0/             />(64,)
+/model_weights/batch_normalization_53/batch_normalization_53/gamma:0/             />(64,)
+/model_weights/batch_normalization_53/batch_normalization_53/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_53/batch_normalization_53/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_54
+/model_weights/batch_normalization_54/batch_normalization_54
+/model_weights/batch_normalization_54/batch_normalization_54/beta:0/             />(64,)
+/model_weights/batch_normalization_54/batch_normalization_54/gamma:0/             />(64,)
+/model_weights/batch_normalization_54/batch_normalization_54/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_54/batch_normalization_54/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_55
+/model_weights/batch_normalization_55/batch_normalization_55
+/model_weights/batch_normalization_55/batch_normalization_55/beta:0/             />(64,)
+/model_weights/batch_normalization_55/batch_normalization_55/gamma:0/             />(64,)
+/model_weights/batch_normalization_55/batch_normalization_55/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_55/batch_normalization_55/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_56
+/model_weights/batch_normalization_56/batch_normalization_56
+/model_weights/batch_normalization_56/batch_normalization_56/beta:0/             />(64,)
+/model_weights/batch_normalization_56/batch_normalization_56/gamma:0/             />(64,)
+/model_weights/batch_normalization_56/batch_normalization_56/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_56/batch_normalization_56/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_57
+/model_weights/batch_normalization_57/batch_normalization_57
+/model_weights/batch_normalization_57/batch_normalization_57/beta:0/             />(64,)
+/model_weights/batch_normalization_57/batch_normalization_57/gamma:0/             />(64,)
+/model_weights/batch_normalization_57/batch_normalization_57/moving_mean:0/             />(64,)
+/model_weights/batch_normalization_57/batch_normalization_57/moving_variance:0/             />(64,)
+/model_weights/batch_normalization_58
+/model_weights/batch_normalization_58/batch_normalization_58
+/model_weights/batch_normalization_58/batch_normalization_58/beta:0/             />(48,)
+/model_weights/batch_normalization_58/batch_normalization_58/gamma:0/             />(48,)
+/model_weights/batch_normalization_58/batch_normalization_58/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_58/batch_normalization_58/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_59
+/model_weights/batch_normalization_59/batch_normalization_59
+/model_weights/batch_normalization_59/batch_normalization_59/beta:0/             />(48,)
+/model_weights/batch_normalization_59/batch_normalization_59/gamma:0/             />(48,)
+/model_weights/batch_normalization_59/batch_normalization_59/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_59/batch_normalization_59/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_6
+/model_weights/batch_normalization_6/batch_normalization_6
+/model_weights/batch_normalization_6/batch_normalization_6/beta:0/             />(45,)
+/model_weights/batch_normalization_6/batch_normalization_6/gamma:0/             />(45,)
+/model_weights/batch_normalization_6/batch_normalization_6/moving_mean:0/             />(45,)
+/model_weights/batch_normalization_6/batch_normalization_6/moving_variance:0/             />(45,)
+/model_weights/batch_normalization_60
+/model_weights/batch_normalization_60/batch_normalization_60
+/model_weights/batch_normalization_60/batch_normalization_60/beta:0/             />(48,)
+/model_weights/batch_normalization_60/batch_normalization_60/gamma:0/             />(48,)
+/model_weights/batch_normalization_60/batch_normalization_60/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_60/batch_normalization_60/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_61
+/model_weights/batch_normalization_61/batch_normalization_61
+/model_weights/batch_normalization_61/batch_normalization_61/beta:0/             />(48,)
+/model_weights/batch_normalization_61/batch_normalization_61/gamma:0/             />(48,)
+/model_weights/batch_normalization_61/batch_normalization_61/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_61/batch_normalization_61/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_62
+/model_weights/batch_normalization_62/batch_normalization_62
+/model_weights/batch_normalization_62/batch_normalization_62/beta:0/             />(48,)
+/model_weights/batch_normalization_62/batch_normalization_62/gamma:0/             />(48,)
+/model_weights/batch_normalization_62/batch_normalization_62/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_62/batch_normalization_62/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_63
+/model_weights/batch_normalization_63/batch_normalization_63
+/model_weights/batch_normalization_63/batch_normalization_63/beta:0/             />(48,)
+/model_weights/batch_normalization_63/batch_normalization_63/gamma:0/             />(48,)
+/model_weights/batch_normalization_63/batch_normalization_63/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_63/batch_normalization_63/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_64
+/model_weights/batch_normalization_64/batch_normalization_64
+/model_weights/batch_normalization_64/batch_normalization_64/beta:0/             />(48,)
+/model_weights/batch_normalization_64/batch_normalization_64/gamma:0/             />(48,)
+/model_weights/batch_normalization_64/batch_normalization_64/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_64/batch_normalization_64/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_65
+/model_weights/batch_normalization_65/batch_normalization_65
+/model_weights/batch_normalization_65/batch_normalization_65/beta:0/             />(48,)
+/model_weights/batch_normalization_65/batch_normalization_65/gamma:0/             />(48,)
+/model_weights/batch_normalization_65/batch_normalization_65/moving_mean:0/             />(48,)
+/model_weights/batch_normalization_65/batch_normalization_65/moving_variance:0/             />(48,)
+/model_weights/batch_normalization_66
+/model_weights/batch_normalization_66/batch_normalization_66
+/model_weights/batch_normalization_66/batch_normalization_66/beta:0/             />(32,)
+/model_weights/batch_normalization_66/batch_normalization_66/gamma:0/             />(32,)
+/model_weights/batch_normalization_66/batch_normalization_66/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_66/batch_normalization_66/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_67
+/model_weights/batch_normalization_67/batch_normalization_67
+/model_weights/batch_normalization_67/batch_normalization_67/beta:0/             />(32,)
+/model_weights/batch_normalization_67/batch_normalization_67/gamma:0/             />(32,)
+/model_weights/batch_normalization_67/batch_normalization_67/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_67/batch_normalization_67/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_68
+/model_weights/batch_normalization_68/batch_normalization_68
+/model_weights/batch_normalization_68/batch_normalization_68/beta:0/             />(32,)
+/model_weights/batch_normalization_68/batch_normalization_68/gamma:0/             />(32,)
+/model_weights/batch_normalization_68/batch_normalization_68/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_68/batch_normalization_68/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_69
+/model_weights/batch_normalization_69/batch_normalization_69
+/model_weights/batch_normalization_69/batch_normalization_69/beta:0/             />(32,)
+/model_weights/batch_normalization_69/batch_normalization_69/gamma:0/             />(32,)
+/model_weights/batch_normalization_69/batch_normalization_69/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_69/batch_normalization_69/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_7
+/model_weights/batch_normalization_7/batch_normalization_7
+/model_weights/batch_normalization_7/batch_normalization_7/beta:0/             />(45,)
+/model_weights/batch_normalization_7/batch_normalization_7/gamma:0/             />(45,)
+/model_weights/batch_normalization_7/batch_normalization_7/moving_mean:0/             />(45,)
+/model_weights/batch_normalization_7/batch_normalization_7/moving_variance:0/             />(45,)
+/model_weights/batch_normalization_70
+/model_weights/batch_normalization_70/batch_normalization_70
+/model_weights/batch_normalization_70/batch_normalization_70/beta:0/             />(32,)
+/model_weights/batch_normalization_70/batch_normalization_70/gamma:0/             />(32,)
+/model_weights/batch_normalization_70/batch_normalization_70/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_70/batch_normalization_70/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_71
+/model_weights/batch_normalization_71/batch_normalization_71
+/model_weights/batch_normalization_71/batch_normalization_71/beta:0/             />(32,)
+/model_weights/batch_normalization_71/batch_normalization_71/gamma:0/             />(32,)
+/model_weights/batch_normalization_71/batch_normalization_71/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_71/batch_normalization_71/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_72
+/model_weights/batch_normalization_72/batch_normalization_72
+/model_weights/batch_normalization_72/batch_normalization_72/beta:0/             />(32,)
+/model_weights/batch_normalization_72/batch_normalization_72/gamma:0/             />(32,)
+/model_weights/batch_normalization_72/batch_normalization_72/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_72/batch_normalization_72/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_73
+/model_weights/batch_normalization_73/batch_normalization_73
+/model_weights/batch_normalization_73/batch_normalization_73/beta:0/             />(32,)
+/model_weights/batch_normalization_73/batch_normalization_73/gamma:0/             />(32,)
+/model_weights/batch_normalization_73/batch_normalization_73/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_73/batch_normalization_73/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_74
+/model_weights/batch_normalization_74/batch_normalization_74
+/model_weights/batch_normalization_74/batch_normalization_74/beta:0/             />(32,)
+/model_weights/batch_normalization_74/batch_normalization_74/gamma:0/             />(32,)
+/model_weights/batch_normalization_74/batch_normalization_74/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_74/batch_normalization_74/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_75
+/model_weights/batch_normalization_75/batch_normalization_75
+/model_weights/batch_normalization_75/batch_normalization_75/beta:0/             />(32,)
+/model_weights/batch_normalization_75/batch_normalization_75/gamma:0/             />(32,)
+/model_weights/batch_normalization_75/batch_normalization_75/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_75/batch_normalization_75/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_76
+/model_weights/batch_normalization_76/batch_normalization_76
+/model_weights/batch_normalization_76/batch_normalization_76/beta:0/             />(32,)
+/model_weights/batch_normalization_76/batch_normalization_76/gamma:0/             />(32,)
+/model_weights/batch_normalization_76/batch_normalization_76/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_76/batch_normalization_76/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_77
+/model_weights/batch_normalization_77/batch_normalization_77
+/model_weights/batch_normalization_77/batch_normalization_77/beta:0/             />(32,)
+/model_weights/batch_normalization_77/batch_normalization_77/gamma:0/             />(32,)
+/model_weights/batch_normalization_77/batch_normalization_77/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_77/batch_normalization_77/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_78
+/model_weights/batch_normalization_78/batch_normalization_78
+/model_weights/batch_normalization_78/batch_normalization_78/beta:0/             />(32,)
+/model_weights/batch_normalization_78/batch_normalization_78/gamma:0/             />(32,)
+/model_weights/batch_normalization_78/batch_normalization_78/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_78/batch_normalization_78/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_79
+/model_weights/batch_normalization_79/batch_normalization_79
+/model_weights/batch_normalization_79/batch_normalization_79/beta:0/             />(32,)
+/model_weights/batch_normalization_79/batch_normalization_79/gamma:0/             />(32,)
+/model_weights/batch_normalization_79/batch_normalization_79/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_79/batch_normalization_79/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_8
+/model_weights/batch_normalization_8/batch_normalization_8
+/model_weights/batch_normalization_8/batch_normalization_8/beta:0/             />(50,)
+/model_weights/batch_normalization_8/batch_normalization_8/gamma:0/             />(50,)
+/model_weights/batch_normalization_8/batch_normalization_8/moving_mean:0/             />(50,)
+/model_weights/batch_normalization_8/batch_normalization_8/moving_variance:0/             />(50,)
+/model_weights/batch_normalization_80
+/model_weights/batch_normalization_80/batch_normalization_80
+/model_weights/batch_normalization_80/batch_normalization_80/beta:0/             />(32,)
+/model_weights/batch_normalization_80/batch_normalization_80/gamma:0/             />(32,)
+/model_weights/batch_normalization_80/batch_normalization_80/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_80/batch_normalization_80/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_81
+/model_weights/batch_normalization_81/batch_normalization_81
+/model_weights/batch_normalization_81/batch_normalization_81/beta:0/             />(32,)
+/model_weights/batch_normalization_81/batch_normalization_81/gamma:0/             />(32,)
+/model_weights/batch_normalization_81/batch_normalization_81/moving_mean:0/             />(32,)
+/model_weights/batch_normalization_81/batch_normalization_81/moving_variance:0/             />(32,)
+/model_weights/batch_normalization_9
+/model_weights/batch_normalization_9/batch_normalization_9
+/model_weights/batch_normalization_9/batch_normalization_9/beta:0/             />(10,)
+/model_weights/batch_normalization_9/batch_normalization_9/gamma:0/             />(10,)
+/model_weights/batch_normalization_9/batch_normalization_9/moving_mean:0/             />(10,)
+/model_weights/batch_normalization_9/batch_normalization_9/moving_variance:0/             />(10,)
+/model_weights/concatenate_1
+/model_weights/conv1d_1
+/model_weights/conv1d_1/conv1d_1
+/model_weights/conv1d_1/conv1d_1/bias:0/             />(35,)
+/model_weights/conv1d_1/conv1d_1/kernel:0/             />(17, 31, 35)
+/model_weights/conv1d_10
+/model_weights/conv1d_10/conv1d_10
+/model_weights/conv1d_10/conv1d_10/bias:0/             />(50,)
+/model_weights/conv1d_10/conv1d_10/kernel:0/             />(17, 45, 50)
+/model_weights/conv1d_11
+/model_weights/conv1d_11/conv1d_11
+/model_weights/conv1d_11/conv1d_11/bias:0/             />(50,)
+/model_weights/conv1d_11/conv1d_11/kernel:0/             />(17, 50, 50)
+/model_weights/conv1d_12
+/model_weights/conv1d_12/conv1d_12
+/model_weights/conv1d_12/conv1d_12/bias:0/             />(50,)
+/model_weights/conv1d_12/conv1d_12/kernel:0/             />(1, 45, 50)
+/model_weights/conv1d_13
+/model_weights/conv1d_13/conv1d_13
+/model_weights/conv1d_13/conv1d_13/bias:0/             />(2,)
+/model_weights/conv1d_13/conv1d_13/kernel:0/             />(17, 50, 2)
+/model_weights/conv1d_2
+/model_weights/conv1d_2/conv1d_2
+/model_weights/conv1d_2/conv1d_2/bias:0/             />(35,)
+/model_weights/conv1d_2/conv1d_2/kernel:0/             />(17, 35, 35)
+/model_weights/conv1d_3
+/model_weights/conv1d_3/conv1d_3
+/model_weights/conv1d_3/conv1d_3/bias:0/             />(35,)
+/model_weights/conv1d_3/conv1d_3/kernel:0/             />(1, 31, 35)
+/model_weights/conv1d_4
+/model_weights/conv1d_4/conv1d_4
+/model_weights/conv1d_4/conv1d_4/bias:0/             />(40,)
+/model_weights/conv1d_4/conv1d_4/kernel:0/             />(17, 35, 40)
+/model_weights/conv1d_5
+/model_weights/conv1d_5/conv1d_5
+/model_weights/conv1d_5/conv1d_5/bias:0/             />(40,)
+/model_weights/conv1d_5/conv1d_5/kernel:0/             />(17, 40, 40)
+/model_weights/conv1d_6
+/model_weights/conv1d_6/conv1d_6
+/model_weights/conv1d_6/conv1d_6/bias:0/             />(40,)
+/model_weights/conv1d_6/conv1d_6/kernel:0/             />(1, 35, 40)
+/model_weights/conv1d_7
+/model_weights/conv1d_7/conv1d_7
+/model_weights/conv1d_7/conv1d_7/bias:0/             />(45,)
+/model_weights/conv1d_7/conv1d_7/kernel:0/             />(17, 40, 45)
+/model_weights/conv1d_8
+/model_weights/conv1d_8/conv1d_8
+/model_weights/conv1d_8/conv1d_8/bias:0/             />(45,)
+/model_weights/conv1d_8/conv1d_8/kernel:0/             />(17, 45, 45)
+/model_weights/conv1d_9
+/model_weights/conv1d_9/conv1d_9
+/model_weights/conv1d_9/conv1d_9/bias:0/             />(45,)
+/model_weights/conv1d_9/conv1d_9/kernel:0/             />(1, 40, 45)
+/model_weights/conv2d_1
+/model_weights/conv2d_1/conv2d_1
+/model_weights/conv2d_1/conv2d_1/bias:0/             />(32,)
+/model_weights/conv2d_1/conv2d_1/kernel:0/             />(3, 3, 10, 32)
+/model_weights/conv2d_10
+/model_weights/conv2d_10/conv2d_10
+/model_weights/conv2d_10/conv2d_10/bias:0/             />(32,)
+/model_weights/conv2d_10/conv2d_10/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_11
+/model_weights/conv2d_11/conv2d_11
+/model_weights/conv2d_11/conv2d_11/bias:0/             />(32,)
+/model_weights/conv2d_11/conv2d_11/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_12
+/model_weights/conv2d_12/conv2d_12
+/model_weights/conv2d_12/conv2d_12/bias:0/             />(32,)
+/model_weights/conv2d_12/conv2d_12/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_13
+/model_weights/conv2d_13/conv2d_13
+/model_weights/conv2d_13/conv2d_13/bias:0/             />(32,)
+/model_weights/conv2d_13/conv2d_13/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_14
+/model_weights/conv2d_14/conv2d_14
+/model_weights/conv2d_14/conv2d_14/bias:0/             />(32,)
+/model_weights/conv2d_14/conv2d_14/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_15
+/model_weights/conv2d_15/conv2d_15
+/model_weights/conv2d_15/conv2d_15/bias:0/             />(32,)
+/model_weights/conv2d_15/conv2d_15/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_16
+/model_weights/conv2d_16/conv2d_16
+/model_weights/conv2d_16/conv2d_16/bias:0/             />(32,)
+/model_weights/conv2d_16/conv2d_16/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_17
+/model_weights/conv2d_17/conv2d_17
+/model_weights/conv2d_17/conv2d_17/bias:0/             />(32,)
+/model_weights/conv2d_17/conv2d_17/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_18
+/model_weights/conv2d_18/conv2d_18
+/model_weights/conv2d_18/conv2d_18/bias:0/             />(48,)
+/model_weights/conv2d_18/conv2d_18/kernel:0/             />(3, 3, 32, 48)
+/model_weights/conv2d_19
+/model_weights/conv2d_19/conv2d_19
+/model_weights/conv2d_19/conv2d_19/bias:0/             />(48,)
+/model_weights/conv2d_19/conv2d_19/kernel:0/             />(3, 3, 48, 48)
+/model_weights/conv2d_2
+/model_weights/conv2d_2/conv2d_2
+/model_weights/conv2d_2/conv2d_2/bias:0/             />(32,)
+/model_weights/conv2d_2/conv2d_2/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_20
+/model_weights/conv2d_20/conv2d_20
+/model_weights/conv2d_20/conv2d_20/bias:0/             />(48,)
+/model_weights/conv2d_20/conv2d_20/kernel:0/             />(1, 1, 32, 48)
+/model_weights/conv2d_21
+/model_weights/conv2d_21/conv2d_21
+/model_weights/conv2d_21/conv2d_21/bias:0/             />(48,)
+/model_weights/conv2d_21/conv2d_21/kernel:0/             />(3, 3, 48, 48)
+/model_weights/conv2d_22
+/model_weights/conv2d_22/conv2d_22
+/model_weights/conv2d_22/conv2d_22/bias:0/             />(48,)
+/model_weights/conv2d_22/conv2d_22/kernel:0/             />(3, 3, 48, 48)
+/model_weights/conv2d_23
+/model_weights/conv2d_23/conv2d_23
+/model_weights/conv2d_23/conv2d_23/bias:0/             />(48,)
+/model_weights/conv2d_23/conv2d_23/kernel:0/             />(3, 3, 48, 48)
+/model_weights/conv2d_24
+/model_weights/conv2d_24/conv2d_24
+/model_weights/conv2d_24/conv2d_24/bias:0/             />(48,)
+/model_weights/conv2d_24/conv2d_24/kernel:0/             />(3, 3, 48, 48)
+/model_weights/conv2d_25
+/model_weights/conv2d_25/conv2d_25
+/model_weights/conv2d_25/conv2d_25/bias:0/             />(48,)
+/model_weights/conv2d_25/conv2d_25/kernel:0/             />(3, 3, 48, 48)
+/model_weights/conv2d_26
+/model_weights/conv2d_26/conv2d_26
+/model_weights/conv2d_26/conv2d_26/bias:0/             />(48,)
+/model_weights/conv2d_26/conv2d_26/kernel:0/             />(3, 3, 48, 48)
+/model_weights/conv2d_27
+/model_weights/conv2d_27/conv2d_27
+/model_weights/conv2d_27/conv2d_27/bias:0/             />(64,)
+/model_weights/conv2d_27/conv2d_27/kernel:0/             />(3, 3, 48, 64)
+/model_weights/conv2d_28
+/model_weights/conv2d_28/conv2d_28
+/model_weights/conv2d_28/conv2d_28/bias:0/             />(64,)
+/model_weights/conv2d_28/conv2d_28/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_29
+/model_weights/conv2d_29/conv2d_29
+/model_weights/conv2d_29/conv2d_29/bias:0/             />(64,)
+/model_weights/conv2d_29/conv2d_29/kernel:0/             />(1, 1, 48, 64)
+/model_weights/conv2d_3
+/model_weights/conv2d_3/conv2d_3
+/model_weights/conv2d_3/conv2d_3/bias:0/             />(32,)
+/model_weights/conv2d_3/conv2d_3/kernel:0/             />(1, 1, 10, 32)
+/model_weights/conv2d_30
+/model_weights/conv2d_30/conv2d_30
+/model_weights/conv2d_30/conv2d_30/bias:0/             />(64,)
+/model_weights/conv2d_30/conv2d_30/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_31
+/model_weights/conv2d_31/conv2d_31
+/model_weights/conv2d_31/conv2d_31/bias:0/             />(64,)
+/model_weights/conv2d_31/conv2d_31/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_32
+/model_weights/conv2d_32/conv2d_32
+/model_weights/conv2d_32/conv2d_32/bias:0/             />(64,)
+/model_weights/conv2d_32/conv2d_32/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_33
+/model_weights/conv2d_33/conv2d_33
+/model_weights/conv2d_33/conv2d_33/bias:0/             />(64,)
+/model_weights/conv2d_33/conv2d_33/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_34
+/model_weights/conv2d_34/conv2d_34
+/model_weights/conv2d_34/conv2d_34/bias:0/             />(64,)
+/model_weights/conv2d_34/conv2d_34/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_35
+/model_weights/conv2d_35/conv2d_35
+/model_weights/conv2d_35/conv2d_35/bias:0/             />(64,)
+/model_weights/conv2d_35/conv2d_35/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_36
+/model_weights/conv2d_36/conv2d_36
+/model_weights/conv2d_36/conv2d_36/bias:0/             />(64,)
+/model_weights/conv2d_36/conv2d_36/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_37
+/model_weights/conv2d_37/conv2d_37
+/model_weights/conv2d_37/conv2d_37/bias:0/             />(64,)
+/model_weights/conv2d_37/conv2d_37/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_38
+/model_weights/conv2d_38/conv2d_38
+/model_weights/conv2d_38/conv2d_38/bias:0/             />(64,)
+/model_weights/conv2d_38/conv2d_38/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_39
+/model_weights/conv2d_39/conv2d_39
+/model_weights/conv2d_39/conv2d_39/bias:0/             />(64,)
+/model_weights/conv2d_39/conv2d_39/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_4
+/model_weights/conv2d_4/conv2d_4
+/model_weights/conv2d_4/conv2d_4/bias:0/             />(32,)
+/model_weights/conv2d_4/conv2d_4/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_40
+/model_weights/conv2d_40/conv2d_40
+/model_weights/conv2d_40/conv2d_40/bias:0/             />(64,)
+/model_weights/conv2d_40/conv2d_40/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_41
+/model_weights/conv2d_41/conv2d_41
+/model_weights/conv2d_41/conv2d_41/bias:0/             />(64,)
+/model_weights/conv2d_41/conv2d_41/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_42
+/model_weights/conv2d_42/conv2d_42
+/model_weights/conv2d_42/conv2d_42/bias:0/             />(64,)
+/model_weights/conv2d_42/conv2d_42/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_43
+/model_weights/conv2d_43/conv2d_43
+/model_weights/conv2d_43/conv2d_43/bias:0/             />(64,)
+/model_weights/conv2d_43/conv2d_43/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_44
+/model_weights/conv2d_44/conv2d_44
+/model_weights/conv2d_44/conv2d_44/bias:0/             />(64,)
+/model_weights/conv2d_44/conv2d_44/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_45
+/model_weights/conv2d_45/conv2d_45
+/model_weights/conv2d_45/conv2d_45/bias:0/             />(64,)
+/model_weights/conv2d_45/conv2d_45/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_46
+/model_weights/conv2d_46/conv2d_46
+/model_weights/conv2d_46/conv2d_46/bias:0/             />(64,)
+/model_weights/conv2d_46/conv2d_46/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_47
+/model_weights/conv2d_47/conv2d_47
+/model_weights/conv2d_47/conv2d_47/bias:0/             />(64,)
+/model_weights/conv2d_47/conv2d_47/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_48
+/model_weights/conv2d_48/conv2d_48
+/model_weights/conv2d_48/conv2d_48/bias:0/             />(64,)
+/model_weights/conv2d_48/conv2d_48/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_49
+/model_weights/conv2d_49/conv2d_49
+/model_weights/conv2d_49/conv2d_49/bias:0/             />(64,)
+/model_weights/conv2d_49/conv2d_49/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_5
+/model_weights/conv2d_5/conv2d_5
+/model_weights/conv2d_5/conv2d_5/bias:0/             />(32,)
+/model_weights/conv2d_5/conv2d_5/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_50
+/model_weights/conv2d_50/conv2d_50
+/model_weights/conv2d_50/conv2d_50/bias:0/             />(64,)
+/model_weights/conv2d_50/conv2d_50/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_51
+/model_weights/conv2d_51/conv2d_51
+/model_weights/conv2d_51/conv2d_51/bias:0/             />(64,)
+/model_weights/conv2d_51/conv2d_51/kernel:0/             />(3, 3, 64, 64)
+/model_weights/conv2d_52
+/model_weights/conv2d_52/conv2d_52
+/model_weights/conv2d_52/conv2d_52/bias:0/             />(48,)
+/model_weights/conv2d_52/conv2d_52/kernel:0/             />(3, 3, 64, 48)
+/model_weights/conv2d_53
+/model_weights/conv2d_53/conv2d_53
+/model_weights/conv2d_53/conv2d_53/bias:0/             />(48,)
+/model_weights/conv2d_53/conv2d_53/kernel:0/             />(3, 3, 48, 48)
+/model_weights/conv2d_54
+/model_weights/conv2d_54/conv2d_54
+/model_weights/conv2d_54/conv2d_54/bias:0/             />(48,)
+/model_weights/conv2d_54/conv2d_54/kernel:0/             />(1, 1, 64, 48)
+/model_weights/conv2d_55
+/model_weights/conv2d_55/conv2d_55
+/model_weights/conv2d_55/conv2d_55/bias:0/             />(48,)
+/model_weights/conv2d_55/conv2d_55/kernel:0/             />(3, 3, 48, 48)
+/model_weights/conv2d_56
+/model_weights/conv2d_56/conv2d_56
+/model_weights/conv2d_56/conv2d_56/bias:0/             />(48,)
+/model_weights/conv2d_56/conv2d_56/kernel:0/             />(3, 3, 48, 48)
+/model_weights/conv2d_57
+/model_weights/conv2d_57/conv2d_57
+/model_weights/conv2d_57/conv2d_57/bias:0/             />(48,)
+/model_weights/conv2d_57/conv2d_57/kernel:0/             />(3, 3, 48, 48)
+/model_weights/conv2d_58
+/model_weights/conv2d_58/conv2d_58
+/model_weights/conv2d_58/conv2d_58/bias:0/             />(48,)
+/model_weights/conv2d_58/conv2d_58/kernel:0/             />(3, 3, 48, 48)
+/model_weights/conv2d_59
+/model_weights/conv2d_59/conv2d_59
+/model_weights/conv2d_59/conv2d_59/bias:0/             />(48,)
+/model_weights/conv2d_59/conv2d_59/kernel:0/             />(3, 3, 48, 48)
+/model_weights/conv2d_6
+/model_weights/conv2d_6/conv2d_6
+/model_weights/conv2d_6/conv2d_6/bias:0/             />(32,)
+/model_weights/conv2d_6/conv2d_6/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_60
+/model_weights/conv2d_60/conv2d_60
+/model_weights/conv2d_60/conv2d_60/bias:0/             />(48,)
+/model_weights/conv2d_60/conv2d_60/kernel:0/             />(3, 3, 48, 48)
+/model_weights/conv2d_61
+/model_weights/conv2d_61/conv2d_61
+/model_weights/conv2d_61/conv2d_61/bias:0/             />(32,)
+/model_weights/conv2d_61/conv2d_61/kernel:0/             />(3, 3, 48, 32)
+/model_weights/conv2d_62
+/model_weights/conv2d_62/conv2d_62
+/model_weights/conv2d_62/conv2d_62/bias:0/             />(32,)
+/model_weights/conv2d_62/conv2d_62/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_63
+/model_weights/conv2d_63/conv2d_63
+/model_weights/conv2d_63/conv2d_63/bias:0/             />(32,)
+/model_weights/conv2d_63/conv2d_63/kernel:0/             />(1, 1, 48, 32)
+/model_weights/conv2d_64
+/model_weights/conv2d_64/conv2d_64
+/model_weights/conv2d_64/conv2d_64/bias:0/             />(32,)
+/model_weights/conv2d_64/conv2d_64/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_65
+/model_weights/conv2d_65/conv2d_65
+/model_weights/conv2d_65/conv2d_65/bias:0/             />(32,)
+/model_weights/conv2d_65/conv2d_65/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_66
+/model_weights/conv2d_66/conv2d_66
+/model_weights/conv2d_66/conv2d_66/bias:0/             />(32,)
+/model_weights/conv2d_66/conv2d_66/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_67
+/model_weights/conv2d_67/conv2d_67
+/model_weights/conv2d_67/conv2d_67/bias:0/             />(32,)
+/model_weights/conv2d_67/conv2d_67/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_68
+/model_weights/conv2d_68/conv2d_68
+/model_weights/conv2d_68/conv2d_68/bias:0/             />(32,)
+/model_weights/conv2d_68/conv2d_68/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_69
+/model_weights/conv2d_69/conv2d_69
+/model_weights/conv2d_69/conv2d_69/bias:0/             />(32,)
+/model_weights/conv2d_69/conv2d_69/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_7
+/model_weights/conv2d_7/conv2d_7
+/model_weights/conv2d_7/conv2d_7/bias:0/             />(32,)
+/model_weights/conv2d_7/conv2d_7/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_70
+/model_weights/conv2d_70/conv2d_70
+/model_weights/conv2d_70/conv2d_70/bias:0/             />(32,)
+/model_weights/conv2d_70/conv2d_70/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_71
+/model_weights/conv2d_71/conv2d_71
+/model_weights/conv2d_71/conv2d_71/bias:0/             />(32,)
+/model_weights/conv2d_71/conv2d_71/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_72
+/model_weights/conv2d_72/conv2d_72
+/model_weights/conv2d_72/conv2d_72/bias:0/             />(32,)
+/model_weights/conv2d_72/conv2d_72/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_73
+/model_weights/conv2d_73/conv2d_73
+/model_weights/conv2d_73/conv2d_73/bias:0/             />(32,)
+/model_weights/conv2d_73/conv2d_73/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_74
+/model_weights/conv2d_74/conv2d_74
+/model_weights/conv2d_74/conv2d_74/bias:0/             />(32,)
+/model_weights/conv2d_74/conv2d_74/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_75
+/model_weights/conv2d_75/conv2d_75
+/model_weights/conv2d_75/conv2d_75/bias:0/             />(32,)
+/model_weights/conv2d_75/conv2d_75/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_76
+/model_weights/conv2d_76/conv2d_76
+/model_weights/conv2d_76/conv2d_76/bias:0/             />(32,)
+/model_weights/conv2d_76/conv2d_76/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_77
+/model_weights/conv2d_77/conv2d_77
+/model_weights/conv2d_77/conv2d_77/bias:0/             />(32,)
+/model_weights/conv2d_77/conv2d_77/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_78
+/model_weights/conv2d_78/conv2d_78
+/model_weights/conv2d_78/conv2d_78/bias:0/             />(1,)
+/model_weights/conv2d_78/conv2d_78/kernel:0/             />(3, 3, 32, 1)
+/model_weights/conv2d_8
+/model_weights/conv2d_8/conv2d_8
+/model_weights/conv2d_8/conv2d_8/bias:0/             />(32,)
+/model_weights/conv2d_8/conv2d_8/kernel:0/             />(3, 3, 32, 32)
+/model_weights/conv2d_9
+/model_weights/conv2d_9/conv2d_9
+/model_weights/conv2d_9/conv2d_9/bias:0/             />(32,)
+/model_weights/conv2d_9/conv2d_9/kernel:0/             />(3, 3, 32, 32)
+/model_weights/input_1
+/model_weights/input_2
+/model_weights/lambda_1
+/optimizer_weights
+/optimizer_weights/Adam
+/optimizer_weights/Adam/iterations:0/             />()
+/optimizer_weights/training
+/optimizer_weights/training/Adam
+/optimizer_weights/training/Adam/Variable:0/             />(31,)
+/optimizer_weights/training/Adam/Variable_1000:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1001:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1002:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1003:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1004:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1005:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1006:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1007:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1008:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1009:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_100:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_1010:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1011:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1012:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1013:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1014:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1015:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1016:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1017:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1018:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1019:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_101:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_1020:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1021:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1022:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1023:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1024:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1025:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1026:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1027:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1028:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1029:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_102:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_1030:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_1031:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_103:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_104:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_105:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_106:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_107:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_108:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_109:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_10:0/             />(35,)
+/optimizer_weights/training/Adam/Variable_110:0/             />(3, 3, 32, 48)
+/optimizer_weights/training/Adam/Variable_111:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_112:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_113:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_114:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_115:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_116:0/             />(1, 1, 32, 48)
+/optimizer_weights/training/Adam/Variable_117:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_118:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_119:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_11:0/             />(35,)
+/optimizer_weights/training/Adam/Variable_120:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_121:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_122:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_123:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_124:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_125:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_126:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_127:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_128:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_129:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_12:0/             />(17, 35, 40)
+/optimizer_weights/training/Adam/Variable_130:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_131:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_132:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_133:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_134:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_135:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_136:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_137:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_138:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_139:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_13:0/             />(40,)
+/optimizer_weights/training/Adam/Variable_140:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_141:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_142:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_143:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_144:0/             />(3, 3, 48, 64)
+/optimizer_weights/training/Adam/Variable_145:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_146:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_147:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_148:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_149:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_14:0/             />(40,)
+/optimizer_weights/training/Adam/Variable_150:0/             />(1, 1, 48, 64)
+/optimizer_weights/training/Adam/Variable_151:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_152:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_153:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_154:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_155:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_156:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_157:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_158:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_159:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_15:0/             />(40,)
+/optimizer_weights/training/Adam/Variable_160:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_161:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_162:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_163:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_164:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_165:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_166:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_167:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_168:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_169:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_16:0/             />(17, 40, 40)
+/optimizer_weights/training/Adam/Variable_170:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_171:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_172:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_173:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_174:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_175:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_176:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_177:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_178:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_179:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_17:0/             />(40,)
+/optimizer_weights/training/Adam/Variable_180:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_181:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_182:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_183:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_184:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_185:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_186:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_187:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_188:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_189:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_18:0/             />(1, 35, 40)
+/optimizer_weights/training/Adam/Variable_190:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_191:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_192:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_193:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_194:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_195:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_196:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_197:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_198:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_199:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_19:0/             />(40,)
+/optimizer_weights/training/Adam/Variable_1:0/             />(31,)
+/optimizer_weights/training/Adam/Variable_200:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_201:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_202:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_203:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_204:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_205:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_206:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_207:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_208:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_209:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_20:0/             />(40,)
+/optimizer_weights/training/Adam/Variable_210:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_211:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_212:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_213:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_214:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_215:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_216:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_217:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_218:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_219:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_21:0/             />(40,)
+/optimizer_weights/training/Adam/Variable_220:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_221:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_222:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_223:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_224:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_225:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_226:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_227:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_228:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_229:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_22:0/             />(17, 40, 45)
+/optimizer_weights/training/Adam/Variable_230:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_231:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_232:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_233:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_234:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_235:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_236:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_237:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_238:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_239:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_23:0/             />(45,)
+/optimizer_weights/training/Adam/Variable_240:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_241:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_242:0/             />(3, 3, 64, 48)
+/optimizer_weights/training/Adam/Variable_243:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_244:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_245:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_246:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_247:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_248:0/             />(1, 1, 64, 48)
+/optimizer_weights/training/Adam/Variable_249:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_24:0/             />(45,)
+/optimizer_weights/training/Adam/Variable_250:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_251:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_252:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_253:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_254:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_255:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_256:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_257:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_258:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_259:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_25:0/             />(45,)
+/optimizer_weights/training/Adam/Variable_260:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_261:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_262:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_263:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_264:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_265:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_266:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_267:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_268:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_269:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_26:0/             />(17, 45, 45)
+/optimizer_weights/training/Adam/Variable_270:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_271:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_272:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_273:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_274:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_275:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_276:0/             />(3, 3, 48, 32)
+/optimizer_weights/training/Adam/Variable_277:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_278:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_279:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_27:0/             />(45,)
+/optimizer_weights/training/Adam/Variable_280:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_281:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_282:0/             />(1, 1, 48, 32)
+/optimizer_weights/training/Adam/Variable_283:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_284:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_285:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_286:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_287:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_288:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_289:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_28:0/             />(1, 40, 45)
+/optimizer_weights/training/Adam/Variable_290:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_291:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_292:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_293:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_294:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_295:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_296:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_297:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_298:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_299:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_29:0/             />(45,)
+/optimizer_weights/training/Adam/Variable_2:0/             />(17, 31, 35)
+/optimizer_weights/training/Adam/Variable_300:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_301:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_302:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_303:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_304:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_305:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_306:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_307:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_308:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_309:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_30:0/             />(45,)
+/optimizer_weights/training/Adam/Variable_310:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_311:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_312:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_313:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_314:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_315:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_316:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_317:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_318:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_319:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_31:0/             />(45,)
+/optimizer_weights/training/Adam/Variable_320:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_321:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_322:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_323:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_324:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_325:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_326:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_327:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_328:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_329:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_32:0/             />(17, 45, 50)
+/optimizer_weights/training/Adam/Variable_330:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_331:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_332:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_333:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_334:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_335:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_336:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_337:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_338:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_339:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_33:0/             />(50,)
+/optimizer_weights/training/Adam/Variable_340:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_341:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_342:0/             />(3, 3, 32, 1)
+/optimizer_weights/training/Adam/Variable_343:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_344:0/             />(31,)
+/optimizer_weights/training/Adam/Variable_345:0/             />(31,)
+/optimizer_weights/training/Adam/Variable_346:0/             />(17, 31, 35)
+/optimizer_weights/training/Adam/Variable_347:0/             />(35,)
+/optimizer_weights/training/Adam/Variable_348:0/             />(35,)
+/optimizer_weights/training/Adam/Variable_349:0/             />(35,)
+/optimizer_weights/training/Adam/Variable_34:0/             />(50,)
+/optimizer_weights/training/Adam/Variable_350:0/             />(17, 35, 35)
+/optimizer_weights/training/Adam/Variable_351:0/             />(35,)
+/optimizer_weights/training/Adam/Variable_352:0/             />(1, 31, 35)
+/optimizer_weights/training/Adam/Variable_353:0/             />(35,)
+/optimizer_weights/training/Adam/Variable_354:0/             />(35,)
+/optimizer_weights/training/Adam/Variable_355:0/             />(35,)
+/optimizer_weights/training/Adam/Variable_356:0/             />(17, 35, 40)
+/optimizer_weights/training/Adam/Variable_357:0/             />(40,)
+/optimizer_weights/training/Adam/Variable_358:0/             />(40,)
+/optimizer_weights/training/Adam/Variable_359:0/             />(40,)
+/optimizer_weights/training/Adam/Variable_35:0/             />(50,)
+/optimizer_weights/training/Adam/Variable_360:0/             />(17, 40, 40)
+/optimizer_weights/training/Adam/Variable_361:0/             />(40,)
+/optimizer_weights/training/Adam/Variable_362:0/             />(1, 35, 40)
+/optimizer_weights/training/Adam/Variable_363:0/             />(40,)
+/optimizer_weights/training/Adam/Variable_364:0/             />(40,)
+/optimizer_weights/training/Adam/Variable_365:0/             />(40,)
+/optimizer_weights/training/Adam/Variable_366:0/             />(17, 40, 45)
+/optimizer_weights/training/Adam/Variable_367:0/             />(45,)
+/optimizer_weights/training/Adam/Variable_368:0/             />(45,)
+/optimizer_weights/training/Adam/Variable_369:0/             />(45,)
+/optimizer_weights/training/Adam/Variable_36:0/             />(17, 50, 50)
+/optimizer_weights/training/Adam/Variable_370:0/             />(17, 45, 45)
+/optimizer_weights/training/Adam/Variable_371:0/             />(45,)
+/optimizer_weights/training/Adam/Variable_372:0/             />(1, 40, 45)
+/optimizer_weights/training/Adam/Variable_373:0/             />(45,)
+/optimizer_weights/training/Adam/Variable_374:0/             />(45,)
+/optimizer_weights/training/Adam/Variable_375:0/             />(45,)
+/optimizer_weights/training/Adam/Variable_376:0/             />(17, 45, 50)
+/optimizer_weights/training/Adam/Variable_377:0/             />(50,)
+/optimizer_weights/training/Adam/Variable_378:0/             />(50,)
+/optimizer_weights/training/Adam/Variable_379:0/             />(50,)
+/optimizer_weights/training/Adam/Variable_37:0/             />(50,)
+/optimizer_weights/training/Adam/Variable_380:0/             />(17, 50, 50)
+/optimizer_weights/training/Adam/Variable_381:0/             />(50,)
+/optimizer_weights/training/Adam/Variable_382:0/             />(1, 45, 50)
+/optimizer_weights/training/Adam/Variable_383:0/             />(50,)
+/optimizer_weights/training/Adam/Variable_384:0/             />(17, 50, 2)
+/optimizer_weights/training/Adam/Variable_385:0/             />(2,)
+/optimizer_weights/training/Adam/Variable_386:0/             />(10,)
+/optimizer_weights/training/Adam/Variable_387:0/             />(10,)
+/optimizer_weights/training/Adam/Variable_388:0/             />(3, 3, 10, 32)
+/optimizer_weights/training/Adam/Variable_389:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_38:0/             />(1, 45, 50)
+/optimizer_weights/training/Adam/Variable_390:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_391:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_392:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_393:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_394:0/             />(1, 1, 10, 32)
+/optimizer_weights/training/Adam/Variable_395:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_396:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_397:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_398:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_399:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_39:0/             />(50,)
+/optimizer_weights/training/Adam/Variable_3:0/             />(35,)
+/optimizer_weights/training/Adam/Variable_400:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_401:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_402:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_403:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_404:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_405:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_406:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_407:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_408:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_409:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_40:0/             />(17, 50, 2)
+/optimizer_weights/training/Adam/Variable_410:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_411:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_412:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_413:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_414:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_415:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_416:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_417:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_418:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_419:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_41:0/             />(2,)
+/optimizer_weights/training/Adam/Variable_420:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_421:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_422:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_423:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_424:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_425:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_426:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_427:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_428:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_429:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_42:0/             />(10,)
+/optimizer_weights/training/Adam/Variable_430:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_431:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_432:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_433:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_434:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_435:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_436:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_437:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_438:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_439:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_43:0/             />(10,)
+/optimizer_weights/training/Adam/Variable_440:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_441:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_442:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_443:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_444:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_445:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_446:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_447:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_448:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_449:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_44:0/             />(3, 3, 10, 32)
+/optimizer_weights/training/Adam/Variable_450:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_451:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_452:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_453:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_454:0/             />(3, 3, 32, 48)
+/optimizer_weights/training/Adam/Variable_455:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_456:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_457:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_458:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_459:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_45:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_460:0/             />(1, 1, 32, 48)
+/optimizer_weights/training/Adam/Variable_461:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_462:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_463:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_464:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_465:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_466:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_467:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_468:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_469:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_46:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_470:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_471:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_472:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_473:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_474:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_475:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_476:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_477:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_478:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_479:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_47:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_480:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_481:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_482:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_483:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_484:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_485:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_486:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_487:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_488:0/             />(3, 3, 48, 64)
+/optimizer_weights/training/Adam/Variable_489:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_48:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_490:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_491:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_492:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_493:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_494:0/             />(1, 1, 48, 64)
+/optimizer_weights/training/Adam/Variable_495:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_496:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_497:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_498:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_499:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_49:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_4:0/             />(35,)
+/optimizer_weights/training/Adam/Variable_500:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_501:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_502:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_503:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_504:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_505:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_506:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_507:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_508:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_509:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_50:0/             />(1, 1, 10, 32)
+/optimizer_weights/training/Adam/Variable_510:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_511:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_512:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_513:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_514:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_515:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_516:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_517:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_518:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_519:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_51:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_520:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_521:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_522:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_523:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_524:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_525:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_526:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_527:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_528:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_529:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_52:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_530:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_531:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_532:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_533:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_534:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_535:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_536:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_537:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_538:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_539:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_53:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_540:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_541:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_542:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_543:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_544:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_545:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_546:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_547:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_548:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_549:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_54:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_550:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_551:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_552:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_553:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_554:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_555:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_556:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_557:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_558:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_559:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_55:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_560:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_561:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_562:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_563:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_564:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_565:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_566:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_567:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_568:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_569:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_56:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_570:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_571:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_572:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_573:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_574:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_575:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_576:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_577:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_578:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_579:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_57:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_580:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_581:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_582:0/             />(3, 3, 64, 64)
+/optimizer_weights/training/Adam/Variable_583:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_584:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_585:0/             />(64,)
+/optimizer_weights/training/Adam/Variable_586:0/             />(3, 3, 64, 48)
+/optimizer_weights/training/Adam/Variable_587:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_588:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_589:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_58:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_590:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_591:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_592:0/             />(1, 1, 64, 48)
+/optimizer_weights/training/Adam/Variable_593:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_594:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_595:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_596:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_597:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_598:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_599:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_59:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_5:0/             />(35,)
+/optimizer_weights/training/Adam/Variable_600:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_601:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_602:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_603:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_604:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_605:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_606:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_607:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_608:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_609:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_60:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_610:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_611:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_612:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_613:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_614:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_615:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_616:0/             />(3, 3, 48, 48)
+/optimizer_weights/training/Adam/Variable_617:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_618:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_619:0/             />(48,)
+/optimizer_weights/training/Adam/Variable_61:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_620:0/             />(3, 3, 48, 32)
+/optimizer_weights/training/Adam/Variable_621:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_622:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_623:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_624:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_625:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_626:0/             />(1, 1, 48, 32)
+/optimizer_weights/training/Adam/Variable_627:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_628:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_629:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_62:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_630:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_631:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_632:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_633:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_634:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_635:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_636:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_637:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_638:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_639:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_63:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_640:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_641:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_642:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_643:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_644:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_645:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_646:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_647:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_648:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_649:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_64:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_650:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_651:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_652:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_653:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_654:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_655:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_656:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_657:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_658:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_659:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_65:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_660:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_661:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_662:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_663:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_664:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_665:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_666:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_667:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_668:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_669:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_66:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_670:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_671:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_672:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_673:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_674:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_675:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_676:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_677:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_678:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_679:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_67:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_680:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_681:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_682:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_683:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_684:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_685:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_686:0/             />(3, 3, 32, 1)
+/optimizer_weights/training/Adam/Variable_687:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_688:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_689:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_68:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_690:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_691:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_692:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_693:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_694:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_695:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_696:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_697:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_698:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_699:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_69:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_6:0/             />(17, 35, 35)
+/optimizer_weights/training/Adam/Variable_700:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_701:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_702:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_703:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_704:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_705:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_706:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_707:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_708:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_709:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_70:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_710:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_711:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_712:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_713:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_714:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_715:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_716:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_717:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_718:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_719:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_71:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_720:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_721:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_722:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_723:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_724:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_725:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_726:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_727:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_728:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_729:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_72:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_730:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_731:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_732:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_733:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_734:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_735:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_736:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_737:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_738:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_739:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_73:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_740:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_741:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_742:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_743:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_744:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_745:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_746:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_747:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_748:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_749:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_74:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_750:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_751:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_752:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_753:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_754:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_755:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_756:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_757:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_758:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_759:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_75:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_760:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_761:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_762:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_763:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_764:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_765:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_766:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_767:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_768:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_769:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_76:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_770:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_771:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_772:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_773:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_774:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_775:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_776:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_777:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_778:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_779:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_77:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_780:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_781:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_782:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_783:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_784:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_785:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_786:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_787:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_788:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_789:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_78:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_790:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_791:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_792:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_793:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_794:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_795:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_796:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_797:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_798:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_799:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_79:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_7:0/             />(35,)
+/optimizer_weights/training/Adam/Variable_800:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_801:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_802:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_803:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_804:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_805:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_806:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_807:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_808:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_809:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_80:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_810:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_811:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_812:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_813:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_814:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_815:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_816:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_817:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_818:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_819:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_81:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_820:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_821:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_822:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_823:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_824:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_825:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_826:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_827:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_828:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_829:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_82:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_830:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_831:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_832:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_833:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_834:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_835:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_836:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_837:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_838:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_839:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_83:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_840:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_841:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_842:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_843:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_844:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_845:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_846:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_847:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_848:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_849:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_84:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_850:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_851:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_852:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_853:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_854:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_855:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_856:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_857:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_858:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_859:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_85:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_860:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_861:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_862:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_863:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_864:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_865:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_866:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_867:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_868:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_869:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_86:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_870:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_871:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_872:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_873:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_874:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_875:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_876:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_877:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_878:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_879:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_87:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_880:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_881:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_882:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_883:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_884:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_885:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_886:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_887:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_888:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_889:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_88:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_890:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_891:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_892:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_893:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_894:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_895:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_896:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_897:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_898:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_899:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_89:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_8:0/             />(1, 31, 35)
+/optimizer_weights/training/Adam/Variable_900:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_901:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_902:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_903:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_904:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_905:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_906:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_907:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_908:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_909:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_90:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_910:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_911:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_912:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_913:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_914:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_915:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_916:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_917:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_918:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_919:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_91:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_920:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_921:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_922:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_923:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_924:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_925:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_926:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_927:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_928:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_929:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_92:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_930:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_931:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_932:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_933:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_934:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_935:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_936:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_937:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_938:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_939:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_93:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_940:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_941:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_942:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_943:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_944:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_945:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_946:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_947:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_948:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_949:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_94:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_950:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_951:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_952:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_953:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_954:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_955:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_956:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_957:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_958:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_959:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_95:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_960:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_961:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_962:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_963:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_964:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_965:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_966:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_967:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_968:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_969:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_96:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_970:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_971:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_972:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_973:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_974:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_975:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_976:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_977:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_978:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_979:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_97:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_980:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_981:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_982:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_983:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_984:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_985:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_986:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_987:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_988:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_989:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_98:0/             />(3, 3, 32, 32)
+/optimizer_weights/training/Adam/Variable_990:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_991:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_992:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_993:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_994:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_995:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_996:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_997:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_998:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_999:0/             />(1,)
+/optimizer_weights/training/Adam/Variable_99:0/             />(32,)
+/optimizer_weights/training/Adam/Variable_9:0/             />(35,)

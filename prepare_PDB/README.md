@@ -1,0 +1,1 @@
+scripts for download PDB file, separate chains' content and calculate intra-/inter-chain distance.
